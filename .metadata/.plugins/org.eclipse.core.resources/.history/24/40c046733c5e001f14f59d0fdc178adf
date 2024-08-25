@@ -1,0 +1,19 @@
+package utilities;
+
+import org.testng.annotations.DataProvider;
+
+public class DataProviders {
+	
+	//Data Provider 1
+	
+	@DataProvider(name="LoginData")
+	public String [][] getData()
+	{
+		String path = ".\\testData\\Opencart_LoginData.xlsx";  //Taking file from TestData
+		
+		ExcelUtility xlutil = new ExcelUtility(path);
+		
+		
+	}
+
+}

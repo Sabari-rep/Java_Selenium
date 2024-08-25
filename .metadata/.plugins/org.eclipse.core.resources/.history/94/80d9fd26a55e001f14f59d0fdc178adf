@@ -1,0 +1,59 @@
+package testCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+import pageObjects.MyAccountPage;
+import testBase.BaseClass;
+import utilities.DataProviders;
+
+
+
+public class TC003_LoginDDT extends BaseClass{
+	
+	@Test(dataProvider="LoginData", dataProviderClass=DataProviders.class)
+	public void verify_login(String email, String pwd, String exp_res)
+	{
+	    //HomePage
+		HomePage hp = new HomePage(driver);
+		hp.clickMyAccount();
+		hp.clickLogin();
+
+		//LoginPage
+		LoginPage lp = new LoginPage(driver);
+		lp.email(p.getProperty(email));
+		lp.pwd(p.getProperty(pwd));
+		lp.login();
+			
+		//MyAccountPage
+			
+		MyAccountPage myacc = new MyAccountPage(driver);
+		boolean targetPage=myacc.isMyAccountPageExists();
+		
+		/*
+		 * Data is Valid - Login Success - Test pass - Logout
+		                 - Login failed - Test fail
+		
+		 * Data is Invalid - Login Success - Test Fail - Logout
+		                   - Login failed - Test Pass
+		 */
+		
+		if(exp_res.equalsIgnoreCase("Valid"))
+		{
+			if(targetPage==true)
+			{
+				myacc.clickLogout();
+				Assert.assertTrue(true);
+			}
+			else
+			{
+				Assert.assertTrue(false);
+			}
+				
+		}
+		
+	}
+
+}

@@ -1,0 +1,25 @@
+package utilities;
+
+import java.io.IOException;
+
+import org.testng.annotations.DataProvider;
+
+public class DataProviders {
+	
+	//Data Provider 1
+	
+	@DataProvider(name="LoginData")
+	public String [][] getData() throws IOException
+	{
+		String path = ".\\testData\\Opencart_LoginData.xlsx";  //Taking file from TestData
+		
+		ExcelUtility xlutil = new ExcelUtility(path);
+		
+		int totalrows = xlutil.getRownCount("Sheet1");
+		int totalcols = xlutil.getCellCount("Sheet1",1);
+		
+		String logindata[][] = new String[totalrows][totalcols]; ////created for two dimension array which can store the data user and password
+		
+	}
+
+}

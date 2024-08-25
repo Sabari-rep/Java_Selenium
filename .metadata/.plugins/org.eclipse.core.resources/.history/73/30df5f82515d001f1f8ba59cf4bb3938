@@ -1,0 +1,44 @@
+2024-08-18 16:21:20 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-18 16:21:20 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-18 16:21:20 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-18 16:21:20 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-18 16:21:23 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-18 16:21:23 INFO  TC001_AccountRegistrationTest:66 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-18 16:25:22 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-18 16:25:22 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-18 16:25:23 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-18 16:25:23 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-18 16:25:26 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-18 16:25:26 INFO  TC001_AccountRegistrationTest:66 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-18 16:26:41 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-18 16:26:42 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-18 16:26:42 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-18 16:26:42 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-18 16:26:45 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-18 16:28:45 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-18 16:28:45 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-18 16:28:46 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-18 16:28:46 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-18 16:28:49 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output

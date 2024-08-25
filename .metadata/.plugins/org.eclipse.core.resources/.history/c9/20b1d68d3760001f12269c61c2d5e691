@@ -1,0 +1,7 @@
+appURL1=http://localhost/opencart/upload/
+appURL2=https://tutorialsninja.com/demo/
+email=admin123@gmail.com
+#password=Admin123
+password=Admin12345     
+#intentionally failing the test for extend report (Wrong password)    
+searchProductName=iPhone

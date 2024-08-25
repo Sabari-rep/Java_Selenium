@@ -1,0 +1,12 @@
+package pageObjects;
+
+import org.openqa.selenium.WebDriver;
+
+public class AccountLogin extends BasePage {
+	
+	public AccountLogin (WebDriver driver)
+	{
+		super(driver);
+	}
+	
+}

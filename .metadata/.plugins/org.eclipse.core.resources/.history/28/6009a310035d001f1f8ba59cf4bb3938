@@ -1,0 +1,15 @@
+package pageObjects;
+
+import org.openqa.selenium.WebDriver;
+
+public class AccountLoginPage extends BasePage {
+	
+	public AccountLogin (WebDriver driver)
+	{
+		super(driver);
+	}
+	
+	
+	@FindBy(xpath="//input[@id='input-email']")
+	WebElement 
+}

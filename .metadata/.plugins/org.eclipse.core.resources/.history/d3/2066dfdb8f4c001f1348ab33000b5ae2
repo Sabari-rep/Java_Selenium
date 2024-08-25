@@ -1,0 +1,11 @@
+package day38;
+
+public class HandleSVGElements {
+
+	public static void main(String[] args) {
+		
+		// https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+	}
+
+}

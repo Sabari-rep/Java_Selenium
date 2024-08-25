@@ -1,0 +1,26 @@
+package utilities;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+
+import org.apache.poi.ss.usermodel.CellStyle;
+import org.apache.poi.xssf.usermodel.*;
+
+public class ExceUtility {
+	
+	public FileInputStream fi;
+	public FileOutputStream fo;
+	public XSSFWorkbook workbook;
+	public XSSFSheet sheet;
+	public XSSFRow row;
+	public XSSFCell cell;
+	public CellStyle style;
+	String path;
+	
+	public ExceUtility(String path)
+	{
+		this.path=path;
+	}
+	
+
+}

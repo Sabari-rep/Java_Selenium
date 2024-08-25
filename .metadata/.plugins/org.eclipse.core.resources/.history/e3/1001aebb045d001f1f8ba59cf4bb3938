@@ -1,0 +1,14 @@
+package testCases;
+
+import pageObjects.AccountLoginPage;
+
+public class TC002_AccountLoginTest extends BaseClass{
+	
+	public void account_Login()
+	{
+		AccountLoginPage ac = new AccountLoginPage(driver)
+				
+				
+	}
+
+}

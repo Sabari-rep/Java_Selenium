@@ -1,0 +1,16 @@
+package testCases;
+
+import org.testng.annotations.Test;
+
+import testBase.BaseClass;
+
+public class TC002_LoginTest extends BaseClass 
+{
+	
+	@Test
+	public void verify_Login()
+	{
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package pageObjects;
+
+import org.openqa.selenium.WebDriver;
+
+public class MyAccountPage extends BasePage {
+	
+	public  MyAccountPage(WebDriver driver)
+	{
+		super(driver);
+	}
+	
+	@FindBy(xpath="//h2[text()='My Account']")
+	WebElement msgHeading;
+	
+
+}

@@ -1,0 +1,30 @@
+/*
+package testCases;
+
+import org.testng.annotations.Test;
+
+import pageObjects.AccountLoginPage;
+import testBase.BaseClass;
+
+public class TC002_AccountLoginTest extends BaseClass{
+	
+	@Test
+	public void account_Login() throws InterruptedException
+	{
+		AccountLoginPage ac = new AccountLoginPage(driver);
+		
+		ac.clickMyAccount();
+		ac.clickLogin();
+		ac.email(email);
+		ac.pwd(password);
+		
+		Thread.sleep(5000);
+		
+		ac.login();
+		
+				
+	}
+
+}
+*/
+

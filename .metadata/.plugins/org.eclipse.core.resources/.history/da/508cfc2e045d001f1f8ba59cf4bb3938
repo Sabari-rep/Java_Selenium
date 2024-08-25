@@ -1,0 +1,47 @@
+package pageObjects;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+public class AccountLoginPage extends BasePage {
+	
+	public AccountLoginPage (WebDriver driver)
+	{
+		super(driver);
+	}
+	
+	@FindBy(xpath="//span[text()='My Account']")
+	WebElement lnkMyAccount;
+	
+	@FindBy(xpath="//a[text()='Login']")
+	WebElement lnkLogin;
+	
+	@FindBy(xpath="//input[@id='input-email']")
+	WebElement login_email;
+	
+	@FindBy(xpath="//input[@id='input-password']")
+	WebElement login_password;
+	
+	public void clickMyAccount()
+	{
+		lnkMyAccount.click();
+	}
+	
+	public void clickLogin()
+	{
+		lnkLogin.click();
+	}
+	
+	public void email(String email)
+	{
+		login_email.sendKeys(email);
+	}
+	
+	public void pwd(String password)
+	{
+		login_email.sendKeys(password);
+	}
+	
+	
+}

@@ -1,0 +1,236 @@
+2024-08-25 09:25:46 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:25:46 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 09:25:47 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-25 09:28:02 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:28:02 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 09:33:00 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:33:00 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 09:33:47 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml"
+2024-08-25 09:33:47 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml
+
+2024-08-25 09:35:04 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml"
+2024-08-25 09:35:04 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml
+
+2024-08-25 09:38:10 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:38:10 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 09:39:33 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:39:33 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 09:40:26 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:40:26 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 09:47:43 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:47:44 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 09:48:40 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:48:40 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 09:50:08 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 09:50:08 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 10:06:02 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 10:06:02 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 10:07:06 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 10:07:06 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 10:07:09 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-25 10:07:09 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-25 10:07:09 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-25 10:07:09 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-25 10:07:10 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-25 10:07:11 INFO  TC001_AccountRegistrationTest:74 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-25 10:07:12 INFO  TC002_LoginTest:20 -
+			******Starting TC002_LoginTest****
+2024-08-25 10:09:38 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 10:09:38 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 12:17:45 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 12:17:45 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 12:18:33 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 12:18:34 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 12:27:37 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 12:27:38 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 12:27:40 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-25 12:27:40 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-25 12:27:40 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-25 12:27:40 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-25 12:27:42 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-25 12:27:42 INFO  TC001_AccountRegistrationTest:74 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-25 12:27:43 INFO  TC002_LoginTest:20 -
+			******Starting TC002_LoginTest****
+2024-08-25 12:46:22 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 12:46:22 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 12:46:26 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-25 12:46:26 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-25 12:46:27 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-25 12:46:27 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-25 12:46:28 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-25 12:46:28 INFO  TC001_AccountRegistrationTest:74 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-25 12:46:31 INFO  TC002_LoginTest:20 -
+			******Starting TC002_LoginTest****
+2024-08-25 12:47:26 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml"
+2024-08-25 12:47:26 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\grid-docker.xml
+
+2024-08-25 12:54:46 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml"
+2024-08-25 12:54:46 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml
+
+2024-08-25 12:54:50 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-25 12:54:50 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-25 12:54:51 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-25 12:54:51 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-25 12:54:54 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-25 12:54:54 INFO  TC001_AccountRegistrationTest:74 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-25 12:54:56 INFO  TC002_LoginTest:20 -
+			******Starting TC002_LoginTest****
+2024-08-25 12:54:58 INFO  TC002_LoginTest:45 -
+			******Finished TC002_LoginTest****
+2024-08-25 15:12:36 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml"
+2024-08-25 15:13:09 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml"
+2024-08-25 15:13:12 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-25 15:13:12 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-25 15:13:13 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-25 15:13:13 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-25 15:13:16 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-25 15:13:16 INFO  TC001_AccountRegistrationTest:74 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-25 15:13:18 INFO  TC002_LoginTest:20 -
+			******Starting TC002_LoginTest****
+2024-08-25 15:13:19 INFO  TC002_LoginTest:45 -
+			******Finished TC002_LoginTest****
+2024-08-25 15:31:38 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml"
+2024-08-25 15:31:41 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-25 15:31:41 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-25 15:31:41 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-25 15:31:41 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-25 15:31:44 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-25 15:31:44 INFO  TC001_AccountRegistrationTest:74 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-25 15:31:46 INFO  TC002_LoginTest:20 -
+			******Starting TC002_LoginTest****
+2024-08-25 15:31:48 INFO  TC002_LoginTest:45 -
+			******Finished TC002_LoginTest****
+2024-08-25 15:35:41 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Java Practice copy\Java Practice\JavaProgramming\Opencart_Framework\master.xml"
+2024-08-25 15:35:44 INFO  TC001_AccountRegistrationTest:27 -
+			****Starting TC001_AccountRegistrationTest***** 
+2024-08-25 15:35:44 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked My account link
+2024-08-25 15:35:45 INFO  TC001_AccountRegistrationTest:34 -
+			Clicked My Register link
+2024-08-25 15:35:45 INFO  TC001_AccountRegistrationTest:39 -
+			Providing Customer details
+2024-08-25 15:35:48 INFO  TC001_AccountRegistrationTest:55 -
+			Validating expected output
+2024-08-25 15:35:48 INFO  TC001_AccountRegistrationTest:74 -
+			****Finished TC001_AccountRegistrationTest***** 
+2024-08-25 15:35:50 INFO  TC002_LoginTest:20 -
+			******Starting TC002_LoginTest****
+2024-08-25 15:35:52 INFO  TC002_LoginTest:45 -
+			******Finished TC002_LoginTest****

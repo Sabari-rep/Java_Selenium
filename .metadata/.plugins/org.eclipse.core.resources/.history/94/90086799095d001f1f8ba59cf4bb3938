@@ -1,0 +1,70 @@
+package testCases;
+
+import java.time.Duration;
+
+import org.apache.commons.lang3.RandomStringUtils;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import pageObjects.AccountLoginPage;
+import pageObjects.AccountRegistrationPage;
+import pageObjects.HomePage;
+import testBase.BaseClass;
+
+public class TC001_AccountRegistrationTest extends BaseClass{
+
+	@Test
+	public void verify_account_registration() throws InterruptedException
+	{
+		HomePage hp = new HomePage(driver);
+		
+		hp.clickMyAccount();
+		hp.clickRegister();
+		
+		AccountRegistrationPage register = new AccountRegistrationPage(driver);
+		
+		register.setFirstName(randomAlbhabetic().toUpperCase());
+		register.setLastName(randomAlbhabetic().toUpperCase());
+		
+		String email = randomAlbhabetic();
+		register.setEmail(email+ "@gmail.com");
+		
+		register.setTelephone(randomNumber());
+		
+		String password = randomAlbhaNumberic();
+		register.setPassword(password);
+		register.setConfirmPassword(password);
+		
+		register.setPrivacyPolicy();
+		register.clickContinue();
+		
+		String confirmation_msg=register.getConfirmationMsg();
+		
+		Assert.assertEquals(confirmation_msg, "Your Account Has Been Created!");
+		
+		register.clickreg_Continue();
+		
+
+		HomePage hp1 = new HomePage(driver);
+		hp.clickMyAccount();
+		
+		register.clickLogout();
+		
+		AccountLoginPage ac = new AccountLoginPage(driver);
+		
+		ac.clickMyAccount();
+		ac.clickLogin();
+		ac.email(email);
+		ac.pwd(password);
+		
+		Thread.sleep(5000);
+	
+	}
+	
+	
+
+}
